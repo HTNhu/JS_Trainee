@@ -1,0 +1,7 @@
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\bin\Debug\JS_Trainee.exe.config
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\bin\Debug\JS_Trainee.exe
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\bin\Debug\JS_Trainee.pdb
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\obj\Debug\JS_Trainee.csproj.CoreCompileInputs.cache
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\obj\Debug\JS_Trainee.exe
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\obj\Debug\JS_Trainee.pdb
+C:\Users\Tran Nhu\Desktop\TaiLieu\JS\JS_Trainee\JS_Trainee\obj\Debug\JS_Trainee.csprojAssemblyReference.cache
